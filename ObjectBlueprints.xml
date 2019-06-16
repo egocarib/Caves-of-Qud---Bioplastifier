@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <object Name="egocarib_bioplastifier" Inherits="Item">
+    <part Name="egocarib_bioplastifier" />
+    <part Name="Render" DisplayName="&amp;Gb&amp;Gi&amp;go&amp;Cp&amp;cla&amp;Bst&amp;Mi&amp;Cf&amp;ci&amp;ye&amp;Yr" ColorString="&amp;C" RenderString="004" RenderLayer="5" Tile="items/sw_magnet.bmp" TileColor="&amp;g" DetailColor="M" />
+    <part Name="Physics" Weight="6" Category="Tools" />
+    <part Name="Commerce" Value="20" />
+    <part Name="Examiner" UnknownDisplayName="&amp;Mramshackle contraption" AlternateDisplayName="small lopsided box" Complexity="3" Understanding="0" />
+    <part Name="Description" Short="A dilapidated bio-reassembly unit. Its gears gnash together eerily behind chipped paint and faded stickers." />
+    <part Name="TinkerItem" Bits="023" CanDisassemble="true" CanBuild="true" CanRepair="true" />
+    <part Name="Metal" />
+    <tag Name="Tier" Value="3" />
+    <tag Name="Mods" Value="CommonMods,ElectronicsMods" />
+    <tag Name="ForceSmartUse" />
+  </object>
+</objects>
